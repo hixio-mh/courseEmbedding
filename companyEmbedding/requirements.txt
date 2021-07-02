@@ -1,4 +1,4 @@
-requests==2.12.5
+requests==2.20.0
 BeautifulSoup4
 selenium
 html5lib
